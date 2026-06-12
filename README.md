@@ -2,6 +2,11 @@
 A Tableau dashboard analyzing hospital patient data, revenues, and operational metrics.
 # Hospital Patient Data Analytics Dashboard
 
+## 🔗 Live Dashboard
+<img width="1626" height="812" alt="Screenshot 2026-06-12 124631" src="https://github.com/user-attachments/assets/163b2d72-bc3d-4e33-b530-bcd7c22b02e5" />
+
+
+
 ## 📌 Project Overview
 This project focuses on analyzing hospital patient data to uncover insights regarding patient demographics, consultation revenues, medication costs, and operational efficiencies across different doctor types. 
 
