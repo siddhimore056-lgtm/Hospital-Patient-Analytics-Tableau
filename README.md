@@ -3,7 +3,8 @@ A Tableau dashboard analyzing hospital patient data, revenues, and operational m
 # Hospital Patient Data Analytics Dashboard
 
 ## 🔗 Live Dashboard
-<img width="1626" height="812" alt="Screenshot 2026-06-12 124631" src="https://github.com/user-attachments/assets/163b2d72-bc3d-4e33-b530-bcd7c22b02e5" />
+<img width="1648" height="812" alt="Screenshot 2026-06-12 131241" src="https://github.com/user-attachments/assets/a1374a90-c0ce-4809-89e4-07a555dff25c" />
+
 
 
 
