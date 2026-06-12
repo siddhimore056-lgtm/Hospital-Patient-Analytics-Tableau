@@ -12,6 +12,6 @@ This project focuses on analyzing hospital patient data to uncover insights rega
 
 ## 🛠️ Tools Used
 * **Tableau Desktop / Public** (Data Visualization & Dashboarding)
-* **Microsoft Excel** (Data Source)
+* **Microsoft Excel** (Kaggle)
 
 
